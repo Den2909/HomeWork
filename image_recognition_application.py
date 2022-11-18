@@ -38,7 +38,7 @@ def print_predictions(preds):
 
 model = load_model()
 
-st.title('Классификации изображений в облаке Streamlit')
+st.title('Распознавание изображений в облаке Streamlit')
 img = load_image()
 result = st.button('Распознать изображение')
 if result:
