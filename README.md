@@ -1,4 +1,4 @@
-# Practice 2 (Image recognition application)
+# Приложение чат-бот на английском языке.
 Приложение для распознавания объектов на изображении.
 
 # Authors (group 11 saturday 13.30)
