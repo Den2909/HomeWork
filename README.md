@@ -1,6 +1,8 @@
 ![Tests](https://github.com/Den2909/Lenovo_api/actions/workflows/python-app.yml/badge.svg?branch=feature-1)
 
-# Итоговое задание по дисциплине программная инженерия: "Чат-бот на английском языке."
+Итоговое задание по дисциплине программная инженерия 
+
+# Чат-бот на английском языке
 
 ## Описание приложения
    Для приложения выбрана ранее обученная модель на платформе Hugging face, версии `blenderbot-400M-distill`. Ссылка на модель: [blenderbot-400M-distill](https://huggingface.co/facebook/blenderbot-400M-distill?text=Hey+my+name+is+Thomas%21+How+are+you%3F).
