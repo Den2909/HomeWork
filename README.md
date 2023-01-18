@@ -8,11 +8,14 @@
    Для приложения выбрана ранее обученная модель на платформе Hugging face, версии `blenderbot-400M-distill`. Ссылка на модель: [blenderbot-400M-distill](https://huggingface.co/facebook/blenderbot-400M-distill?text=Hey+my+name+is+Thomas%21+How+are+you%3F).
    Чат-бот предлагает интересные темы разговора и слушает своих собеседников, задает вопросы и отвечает на них, а также демонстрирует знания, сопереживание и индивидуальность, в зависимости от ситуации. Модель работает только на английском языке, при использовании другого, предлагает перейти на английский.
 ## Скрин-шоты диалогов
-![Иллюстрация к проекту](https://github.com/Den2909/HomeWork/blob/main/Screen-shot/example1.jpg)
-![Иллюстрация к проекту](https://github.com/Den2909/HomeWork/blob/main/Screen-shot/example2.jpg)
+![Иллюстрация к проекту](https://github.com/Den2909/HomeWork/blob/main/Screen-shot/example.jpg)
+
 
 ## Запуск приложения
 `uvicorn main:app --reload`
+
+## Ссылка на приложение
+http://84.252.130.130:8000
 
 
 ## Авторы
